@@ -1,0 +1,9 @@
+2021-08-12 15:55:37,853 FATAL a.LoggingDemo [main] fatal message
+2021-08-12 15:55:37,855 ERROR a.LoggingDemo [main] error message
+2021-08-12 15:55:37,855 WARN a.LoggingDemo [main] warning message
+2021-08-12 16:32:43,279 FATAL a.LoggingDemo [main] fatal message
+2021-08-12 16:32:43,281 ERROR a.LoggingDemo [main] error message
+2021-08-12 16:32:43,281 WARN a.LoggingDemo [main] warning message
+2021-08-12 16:45:18,666 FATAL a.LoggingDemo [main] fatal message
+2021-08-12 16:45:18,669 ERROR a.LoggingDemo [main] error message
+2021-08-12 16:45:18,669 WARN a.LoggingDemo [main] warning message
